@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Anastasiia Filippova
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Anastasiia
+last_name: Filippova
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master student, Artificial Intelligence and Natural Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
