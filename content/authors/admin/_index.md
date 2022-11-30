@@ -25,62 +25,48 @@ bio: I am in
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Signal Processing
+  - Natural Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+    - course: MSc in Data Science
+      institution: EPFL
+      year: 2021
+    - course: BSc in Applied Math and Physics
+      institution: Moscow Institute of Physics and Technology
+      year: 2017
 social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/NasFilippova
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&authuser=3&user=n-20RKYAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nastya236
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+    link: https://www.linkedin.com/in/anastasiia-filippova-582067222/
+  - icon: cv 
+    icon_pack: ai
+    link: uploads/CV_Filippova.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: anastasiia.filippova@epfl.ch
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Master student at E
+I  that the future of AI, especially in the domain of Natural Science, is self-supervised learning. Essentially this is ML paradigm where the model is trained without external supervision, but instead leverages the underlying structure of data. Self-supervised and representation learning are attempting to reproduce natural learning in machines. I am anxious to continue my research in these areas and work on novel ways to understand complex behavior pattern formation in biological systems with the help of artificial intelligence.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
