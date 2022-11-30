@@ -2,7 +2,6 @@
 widget: hero
 headless: false
 weight: 10
-title: Hugo Academic Theme
 hero_media: hero-academic.png
 cta:
   label: '**Get Started**'
