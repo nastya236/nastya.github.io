@@ -14,11 +14,13 @@ role: Master student, Artificial Intelligence and Natural Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Ecole Polytechnique Fédérale de Lausanne
+    url: https://www.epfl.ch/en/
+  - name: Mackenzie Mathis Lab
+    url: http://www.mackenziemathislab.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am in
 
 # Interests to show in About widget
 interests:
