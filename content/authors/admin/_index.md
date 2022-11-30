@@ -14,7 +14,7 @@ role: Master student, Artificial Intelligence and Natural Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ecole Polytechnique Fédérale de Lausanne
+  - name: Ecole polytechnique Fédérale de Lausanne
     url: https://www.epfl.ch/en/
   - name: Mackenzie Mathis Lab
     url: http://www.mackenziemathislab.org
@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: MSc in Data Science
-      institution: EPFL
+      institution: Ecole polytechnique fédérale de Lausanne
       year: 2021
     - course: BSc in Applied Math and Physics
       institution: Moscow Institute of Physics and Technology
@@ -68,7 +68,17 @@ email: anastasiia.filippova@epfl.ch
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Master student at E
-I  that the future of AI, especially in the domain of Natural Science, is self-supervised learning. Essentially this is ML paradigm where the model is trained without external supervision, but instead leverages the underlying structure of data. Self-supervised and representation learning are attempting to reproduce natural learning in machines. I am anxious to continue my research in these areas and work on novel ways to understand complex behavior pattern formation in biological systems with the help of artificial intelligence.
+
+I believe that AI
+My passion is solving intelligence to advance science and benefit humanity.
+
+I am a Master student at  Ecole polytechnique fédérale de Lausanne. Besides that I am a Research Assistant at Adaptive Motor Control Lab headed by Mackenzie Mathis.
+(About the lab briefly)
+Now I am working on improving the generation ability of pose estimation models in DeepLabCut with Shaokai Ye. Also, I am a part of CEBRA, led by Steffen Schneider.
+
+I received my BSc degree in Applied Math and Physics at Moscow Institute of Physics and Technology. 
+During my undergraduate studing I worked in Machine Intelligence Lab as AI Researcher.
+As a member of the Computer Vision and Signal Processing team, I conducted research in the different fields of Artificial Intelligence and helped big technical companies, such as Huawei, Samsung, and Sony, to build and deploy AI models on wearable devices
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
