@@ -27,6 +27,8 @@ interests:
   - Artificial Intelligence
   - Signal Processing
   - Natural Science
+  - Self-Supervised Learning
+  - Natural Language Processing
 
 # Education to show in About widget
 education:
