@@ -79,4 +79,4 @@ As a member of the Computer Vision and Signal Processing team, I conducted resea
 
 I am interested in the intersection of Machine Learning and Natural Science. My passion is solving intelligence to advance science and benefit humanity.
 
-More details about my experience in my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+More details about my experience in my {{< staticref "uploads/CV_Filippova.pdf" "newtab" >}}resume{{< /staticref >}}.
