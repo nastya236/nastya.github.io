@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # (publication_types: ["1"])
 
 # Publication name and optional abbreviated publication name.
-publication: In Ekaterina Svikhnushina, Anastasiia Filippova, and Pearl Pu. 2022. iEval: Interactive Evaluation Framework for Open-Domain Empathetic Chatbots. In Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue, pages 419–431, Edinburgh, UK. Association for Computational Linguistics, Edinburgh, UK.
+publication: In Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue
 publication_short: ""
 
 abstract: Building an empathetic chatbot is an important objective in dialog generation research, with evaluation being one of the most challenging parts. By empathy, we mean the ability to understand and relate to the speakers’ emotions, and respond to them appropriately. Human evaluation has been considered as the current standard for measuring the performance of open-domain empathetic chatbots. However, existing evaluation procedures suffer from a number of limitations we try to address in our current work. In this paper, we describe iEval, a novel interactive evaluation framework where the person chatting with the bots also rates them on different conversational aspects, as well as ranking them, resulting in greater consistency of the scores. We use iEval to benchmark several state-of-the-art empathetic chatbots, allowing us to discover some intricate details in their performance in different emotional contexts. Based on these results, we present key implications for further improvement of such chatbots. To facilitate other researchers using the iEval framework, we will release our dataset consisting of collected chat logs and human scores.
