@@ -9,8 +9,8 @@ date: '2016-04-27T00:00:00Z'
 external_link: https://cebra.ai
 
 image:
-caption: Photo by rawpixel on Unsplash
-focal_point: Smart
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 links:
   - icon: twitter
     icon_pack: fab
