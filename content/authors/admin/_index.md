@@ -77,6 +77,6 @@ I received my BSc degree in Applied Math and Physics at [Moscow Institute of Phy
 During my undergraduate studies, I worked in [Machine Intelligence Lab](http://mil-team.com) as AI Researcher.
 As a member of the Computer Vision and Signal Processing team, I conducted research in the different fields of Artificial Intelligence and helped big technical companies to build and deploy AI models on wearable devices.
 
-I am interested in the intersection of Machine Learning and Natural Science. My passion is solving intelligence to advance science and benefit humanity.
+My research goal and passion is to work on algorithms and models of AI that improve different tasks and are agnostic to the specific inductive bias in data.
 
 More details about my experience in my {{< staticref "uploads/CV_Filippova.pdf" "newtab" >}}resume{{< /staticref >}}.
