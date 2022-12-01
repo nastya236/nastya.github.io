@@ -81,4 +81,4 @@ During my undergraduate studing I worked in Machine Intelligence Lab as AI Resea
 As a member of the Computer Vision and Signal Processing team, I conducted research in the different fields of Artificial Intelligence and helped big technical companies, such as Huawei, Samsung, and Sony, to build and deploy AI models on wearable devices
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} More details about experience in my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
