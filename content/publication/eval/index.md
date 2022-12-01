@@ -4,8 +4,8 @@ authors:
 - Ekaterina Svikhnushina
 - admin
 - Pearl Pu
-  date: "2022-09-12T00:00:00Z"
-  doi: ""
+date: "2022-09-12T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
