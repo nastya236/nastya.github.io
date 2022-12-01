@@ -32,19 +32,19 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-  featured: false
+featured: false
 
 links:
 - name: Custom Link
   url: http://example.org
-  url_pdf: http://arxiv.org/pdf/1512.04133v1
-  url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-  url_dataset: '#'
-  url_poster: '#'
-  url_project: ''
-  url_slides: ''
-  url_source: '#'
-  url_video: '#'
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
   
 projects:
@@ -57,9 +57,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
