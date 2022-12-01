@@ -1,15 +1,15 @@
 ---
 title: "SuperAnimal models are few-shot learners for pose estimation"
 authors:
-- Shaokai Ye
+- [Shaokai Ye](https://yeshaokai.github.io)
 - admin
 - Maxime Vidal
-- Steffen Schneider
+- [Steffen Schneider](https://stes.io)
 - Jessy Lauer
 - Tian Qiu
-- Alexander Mathis 
-- Mackenzie Mathis
-date: "2019-04-07T00:00:00Z"
+- [Alexander Mathis](https://www.mathislab.org)
+- [Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis)
+date: "2022-12-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,16 +36,8 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
+  url: http://www.mackenziemathislab.org/dlc-modelzoo
+url_code: http://www.mackenziemathislab.org/dlc-modelzoo
   
 projects:
 - internal-project
