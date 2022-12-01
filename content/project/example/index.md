@@ -1,6 +1,6 @@
 ---
-title: CEBRA: Learnable latent embeddings for joint behavioral and neural analysis
-summary:  
+title: CEBRA
+summary:  Learnable latent embeddings for joint behavioral and neural analysis
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
