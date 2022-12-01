@@ -9,8 +9,8 @@ authors:
 - Tian Qiu
 - Alexander Mathis 
 - Mackenzie Mathis
-  date: "2019-04-07T00:00:00Z"
-  doi: ""
+date: "2019-04-07T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -46,18 +46,7 @@ links:
   url_source: '#'
   url_video: '#'
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-focal_point: ""
-preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+  
 projects:
 - internal-project
 
