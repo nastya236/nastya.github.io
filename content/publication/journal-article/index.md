@@ -1,5 +1,5 @@
 ---
-title: "SuperAnimal models are few-shot learners for pose estimation"
+title: "SuperAnimal models are few-shot learners for pose estimation (expected publication date: Dec 2022)"
 authors:
 - Shaokai Ye
 - admin
