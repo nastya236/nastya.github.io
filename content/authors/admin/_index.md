@@ -69,16 +69,15 @@ email: anastasiia.filippova@epfl.ch
 highlight_name: true
 ---
 
-I believe that AI
-My passion is solving intelligence to advance science and benefit humanity.
-
 I am a Master student at  Ecole polytechnique fédérale de Lausanne. Besides that I am a Research Assistant at Adaptive Motor Control Lab headed by Mackenzie Mathis.
-(About the lab briefly)
-Now I am working on improving the generation ability of pose estimation models in DeepLabCut with Shaokai Ye. Also, I am a part of CEBRA, led by Steffen Schneider.
+
+Currently I am working on improving the generation ability of pose estimation models in DeepLabCut with Shaokai Ye. Also, I developing new features for CEBRA, led by Steffen Schneider.
 
 I received my BSc degree in Applied Math and Physics at Moscow Institute of Physics and Technology. 
 During my undergraduate studing I worked in Machine Intelligence Lab as AI Researcher.
 As a member of the Computer Vision and Signal Processing team, I conducted research in the different fields of Artificial Intelligence and helped big technical companies, such as Huawei, Samsung, and Sony, to build and deploy AI models on wearable devices
 
+I interested at the intersection of Machine Learning and Natural Science.
+My passion is solving intelligence to advance science and benefit humanity.
 
-{{< icon name="download" pack="fas" >}} More details about experience in my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+More details about my experience in my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
