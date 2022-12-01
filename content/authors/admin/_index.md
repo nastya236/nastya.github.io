@@ -35,10 +35,10 @@ education:
   courses:
     - course: MSc in Data Science
       institution: Ecole polytechnique fédérale de Lausanne
-      year: 2021
+      year: 2021 - 2023 (expected)
     - course: BSc in Applied Math and Physics
       institution: Moscow Institute of Physics and Technology
-      year: 2017
+      year: 2017 - 2021
 social:
   - icon: envelope
     icon_pack: fas
@@ -69,15 +69,14 @@ email: anastasiia.filippova@epfl.ch
 highlight_name: true
 ---
 
-I am a Master student at  Ecole polytechnique fédérale de Lausanne. Besides that I am a Research Assistant at Adaptive Motor Control Lab headed by Mackenzie Mathis.
+I am a Master student at  [Ecole polytechnique fédérale de Lausanne](https://www.epfl.ch/en/). Besides that, I am a Research Assistant at [Adaptive Motor Control Lab](http://www.mackenziemathislab.org) headed by [Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis).
 
-Currently I am working on improving the generation ability of pose estimation models in DeepLabCut with Shaokai Ye. Also, I developing new features for CEBRA, led by Steffen Schneider.
+Currently, I am working on improving the generation ability of pose estimation models in [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) with [Shaokai Ye](https://yeshaokai.github.io). Also, I am developing new features for [CEBRA](https://cebra.ai), led by [Steffen Schneider](https://stes.io).
 
-I received my BSc degree in Applied Math and Physics at Moscow Institute of Physics and Technology. 
-During my undergraduate studing I worked in Machine Intelligence Lab as AI Researcher.
-As a member of the Computer Vision and Signal Processing team, I conducted research in the different fields of Artificial Intelligence and helped big technical companies, such as Huawei, Samsung, and Sony, to build and deploy AI models on wearable devices
+I received my BSc degree in Applied Math and Physics at [Moscow Institute of Physics and Technology](https://mipt.ru/english/).
+During my undergraduate studies, I worked in [Machine Intelligence Lab](http://mil-team.com) as AI Researcher.
+As a member of the Computer Vision and Signal Processing team, I conducted research in the different fields of Artificial Intelligence and helped big technical companies to build and deploy AI models on wearable devices.
 
-I interested at the intersection of Machine Learning and Natural Science.
-My passion is solving intelligence to advance science and benefit humanity.
+I am interested in the intersection of Machine Learning and Natural Science. My passion is solving intelligence to advance science and benefit humanity.
 
 More details about my experience in my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
