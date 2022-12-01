@@ -2,16 +2,18 @@
 title: "SuperAnimal models are few-shot learners for pose estimation"
 authors:
 - Shaokai Ye
-- Anastasiia Filippova
+- admin
 - Maxime Vidal
 - Steffen Schneider
 - Jessy Lauer
 - Tian Qiu
 - Alexander Mathis 
 - Mackenzie Mathis
+  date: "2019-04-07T00:00:00Z"
+  doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "in December!"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,16 +22,55 @@ publishDate: "in December!"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: ""
 publication_short: ""
 
-abstract: Animal pose estimation is critical for many applications in neuroscience. However, it usually requires domain knowledge and labeling efforts to obtain reliable animal pose models. To give researchers easy access to high performance models across diverse environments and species, we have made available a web platform to collect data and share models, together with a new paradigm for pre-training and fine-tuning animal pose models. Our contributions are: (1) we introduce gradient masking to train neural networks across disjoint datasets, (2) introduce a memory-replay buffer to overcome catastrophic forgetting, and we propose two adaptation methods, namely, (3) spatial pyramid and (4) video adaptation, which collectively significantly boosts performance on held out animal pose datasets. We show that our SuperAnimal models, that were trained on pooled datasets from different sources, outperform ImageNet pretraining, which is currently widely used in baseline models for pose estimation.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 tags:
 - Source Themes
-featured: false
+  featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: Custom Link
+  url: http://example.org
+  url_pdf: http://arxiv.org/pdf/1512.04133v1
+  url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+  url_dataset: '#'
+  url_poster: '#'
+  url_project: ''
+  url_slides: ''
+  url_source: '#'
+  url_video: '#'
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+focal_point: ""
+preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
 ---
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
