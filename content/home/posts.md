@@ -9,9 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Teching
+title: Teaching
 subtitle: ''
-active: true
+active: false
 
 content:
 # Page type to display. E.g. project.
