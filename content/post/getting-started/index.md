@@ -1,7 +1,6 @@
 ---
 title:  Modern Methods for Quantifying Behavior
-summary: Built model for sweat loss estimation during workout via Samsung Galaxy Watch 4 (implemented feature) for Samsung Research based on BMI, age, weight and accelerometer and gyroscope data.
-
+summary: 
 tags:
   - Demo
 date: "2019-09-27T00:00:00Z"
