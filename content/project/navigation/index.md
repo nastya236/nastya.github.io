@@ -1,6 +1,7 @@
 ---
 title: Neuro Sense
-summary: Hardware-constrained human activity recognition, activity embeddings construction and heart rate estimation.
+summary: Developed model for inertial navigation and activity classification on smartphones based on IMU data. Created new algorithm for gyroscope bias correction based on smart quaternions correction. Archived 8.9 RMSE and 6.0 MAPE in trajectory estimation task.
+
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
@@ -9,8 +10,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: http://mil-team.com/product/neurha
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
 links:
 - icon: twitter
