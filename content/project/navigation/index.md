@@ -12,12 +12,5 @@ external_link: http://mil-team.com/product/neurha
 image:
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/PolynTechnology
-  url_code: ''
-  url_pdf: ''
-  url_slides: ''
-  url_video: ''
+
 ---
