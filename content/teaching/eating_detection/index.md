@@ -1,5 +1,5 @@
 ---
-title: Dehydratation estimation via smartwatch
+title:  Modern Methods for Quantifying Behavior
 summary: Built model for sweat loss estimation during workout via Samsung Galaxy Watch 4 (implemented feature) for Samsung Research based on BMI, age, weight and accelerometer and gyroscope data.
 
 tags:
@@ -7,15 +7,15 @@ tags:
   date: "2019-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://mil-team.com/product/neurha
+external_link: https://cajal-training.org/neurokit/behavioural-analysis/
 
 image:
 
 links:
-- icon: linkedin
+- icon: twitter
   icon_pack: fab
-  url: https://www.linkedin.com/pulse/samsung-watch-app-predicts-future-dehydration-heat-joseph-hitt-ph-d-/
-  url_code: ''
+  url: https://twitter.com/Cajal_Training?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+  url_code: 'https://github.com/AlexEMG/DLC-Cajal-Course'
   url_pdf: ''
   url_slides: ''
   url_video: ''
