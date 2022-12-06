@@ -69,13 +69,13 @@ email: anastasiia.filippova@epfl.ch
 highlight_name: true
 ---
 
-I am a MS student at  [Ecole polytechnique fédérale de Lausanne](https://www.epfl.ch/en/). Also, I am a Research Assistant at [Adaptive Motor Control Lab](http://www.mackenziemathislab.org) headed by [Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis).
+I am a MS student at  [Ecole polytechnique fédérale de Lausanne](https://www.epfl.ch/en/). Also, I am a research assistant at [Adaptive Motor Control Lab](http://www.mackenziemathislab.org) headed by [Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis).
 
-Currently, I am working on extensions for [CEBRA](https://cebra.ai), led by [Steffen Schneider](https://stes.io). Also, I am improving the generalisation ability of pose estimation models in [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) with [Shaokai Ye](https://yeshaokai.github.io)
+Currently, I am working on extensions for [CEBRA](https://cebra.ai), led by [Steffen Schneider](https://stes.io). Also, I am improving the generalisation ability of pose estimation models in [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) with [Shaokai Ye](https://yeshaokai.github.io).
 
 I pursued my BSc degree in Applied Mathematics and Physics at [Moscow Institute of Physics and Technology](https://mipt.ru/english/).
-During my undergraduate studies, I worked in [Machine Intelligence Lab](http://mil-team.com) as AI Researcher.
+During my undergraduate studies, I worked in the [Machine Intelligence Lab](http://mil-team.com) as AI Researcher.
 As a member of the Computer Vision and Signal Processing team, I conducted research and helped big technical companies to build and deploy AI models on wearable devices.
 
-My research endeavor is to build models and algorithms by learning data-type invariant features and relations. To be more specific, I am interested in self-supervised learning for behaviour understanding.
-More details about my experience in my {{< staticref "uploads/CV_Filippova.pdf" "newtab" >}}resume{{< /staticref >}}.
+My research endeavor is to build models and algorithms for learning data-type invariant features and relations. To be more specific, I am interested in self-supervised learning for behaviour understanding.
+More details about my experience in my {{< staticref "uploads/CV_Filippova.pdf" "newtab" >}}resume.{{< /staticref >}}
