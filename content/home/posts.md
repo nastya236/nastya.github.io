@@ -11,7 +11,7 @@ weight: 30
 
 title: Teaching
 subtitle: ''
-active: true
+active: false
 
 content:
 # Page type to display. E.g. project.

@@ -1,25 +1,18 @@
 ---
-title: Example Talk
+title: Modern Methods for Quantifying Behavior
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Wowchemy 
+event_url: https://cajal-training.org/neurokit/behavioural-analysis/
 
-location: Wowchemy HQ
+location: Online
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
-
-# Talk start and end times.
+abstract: 
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2022-10-21T13:00:00Z'
+date_end: '2022-10-28T15:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -34,8 +27,8 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
+    url: https://twitter.com/Cajal_Training?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+url_code: https://github.com/AlexEMG/DLC-Cajal-Course
 url_pdf: ''
 url_slides: ''
 url_video: ''
