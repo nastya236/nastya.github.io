@@ -9,8 +9,6 @@ date: "2019-09-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: https://cajal-training.org/neurokit/behavioural-analysis/
 
-image: ''
-
 links:
 - icon: twitter
   icon_pack: fab
