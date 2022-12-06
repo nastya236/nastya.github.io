@@ -12,8 +12,8 @@ external_link: http://mil-team.com/product/neurha
 image:
 
 links:
-- icon: linkedin
-  icon_pack: fab
+- icon: 
+  icon_pack: 
   url: https://www.linkedin.com/pulse/samsung-watch-app-predicts-future-dehydration-heat-joseph-hitt-ph-d-/
   url_code: ''
   url_pdf: ''
