@@ -1,13 +1,13 @@
 ---
 title: Modern Methods for Quantifying Behavior
 
-event: Wowchemy 
+event:  
 event_url: https://cajal-training.org/neurokit/behavioural-analysis/
 
 location: Online
 address:
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: This course emphasizes the philosophical and observational skills required to understand behaviour, while also providing training in motion capture technologies and computer vision methods that can assist in the collection and analysis of video recorded behaviour datasets.
 abstract: 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-10-21T13:00:00Z'
