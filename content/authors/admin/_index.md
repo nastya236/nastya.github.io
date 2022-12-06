@@ -69,7 +69,7 @@ email: anastasiia.filippova@epfl.ch
 highlight_name: true
 ---
 
-I am a MS student at  [Ecole polytechnique fédérale de Lausanne](https://www.epfl.ch/en/). Besides that, I am a Research Assistant at [Adaptive Motor Control Lab](http://www.mackenziemathislab.org) headed by [Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis).
+I am a MS student at  [Ecole polytechnique fédérale de Lausanne](https://www.epfl.ch/en/). Also, I am a Research Assistant at [Adaptive Motor Control Lab](http://www.mackenziemathislab.org) headed by [Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis).
 
 Currently, I am working on extensions for [CEBRA](https://cebra.ai), led by [Steffen Schneider](https://stes.io). Also, I am improving the generalisation ability of pose estimation models in [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) with [Shaokai Ye](https://yeshaokai.github.io)
 
@@ -77,5 +77,5 @@ I pursued my BSc degree in Applied Math and Physics at [Moscow Institute of Phys
 During my undergraduate studies, I worked in [Machine Intelligence Lab](http://mil-team.com) as AI Researcher.
 As a member of the Computer Vision and Signal Processing team, I conducted research and helped big technical companies to build and deploy AI models on wearable devices.
 
-My research goal is to build models and algorithms by learning data-type invariant features and relations. To be more specific, I am interested in self-supervised learning for behaviour understanding.
+My research endeavor is to build models and algorithms by learning data-type invariant features and relations. To be more specific, I am interested in self-supervised learning for behaviour understanding.
 More details about my experience in my {{< staticref "uploads/CV_Filippova.pdf" "newtab" >}}resume{{< /staticref >}}.

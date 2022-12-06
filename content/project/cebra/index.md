@@ -1,7 +1,7 @@
 ---
 title: Learnable latent embeddings for joint behavioral and neural analysis
 summary: Develop self-supervised algorithms for representation learning  jointly using behavioral and neural data.
-  - Demo
+
 date: "2022-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
