@@ -73,7 +73,7 @@ I am a MS student at  [Ecole polytechnique fédérale de Lausanne](https://www.e
 
 Currently, I am working on extensions for [CEBRA](https://cebra.ai), led by [Steffen Schneider](https://stes.io). Also, I am improving the generalisation ability of pose estimation models in [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) with [Shaokai Ye](https://yeshaokai.github.io)
 
-I pursued my BSc degree in Applied Math and Physics at [Moscow Institute of Physics and Technology](https://mipt.ru/english/).
+I pursued my BSc degree in Applied Mathematics and Physics at [Moscow Institute of Physics and Technology](https://mipt.ru/english/).
 During my undergraduate studies, I worked in [Machine Intelligence Lab](http://mil-team.com) as AI Researcher.
 As a member of the Computer Vision and Signal Processing team, I conducted research and helped big technical companies to build and deploy AI models on wearable devices.
 
