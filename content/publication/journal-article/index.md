@@ -26,8 +26,8 @@ publishDate: "2022-01-01T00:00:00Z"
 publication: "Nature Methods"
 publication_short: ""
 
-abstract: Animal pose estimation is critical in applications ranging from neuroscience, agriculture, to veterinary medicine. However, it usually requires domain knowledge and labeling efforts to obtain reliable animal pose models. To give researchers easy access to high performance animal pose models across diverse environments and species, we have made available a web platform to collect data and share models, together with a new paradigm for pre-training and fine-tuning animal pose models.
-# Summary. An optional shortened abstract.
+abstract: Animal pose estimation is critical in applications ranging from neuroscience to veterinary medicine. However, reliable inference of animal poses currently requires domain knowledge and labeling effort. To ease access to high-performance animal pose estimation models across diverse environments and species, we present a new paradigm for pre-training and fine-tuning that provides excellent zero-shot (no training required) performance on two major classes of animal pose data: quadrupeds and lab mice.
+
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 
