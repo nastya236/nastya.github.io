@@ -1,5 +1,5 @@
 ---
-title: "SuperAnimal models are few-shot learners for pose estimation (in progress)"
+title: "The DeepLabCut Model Zoo: SuperAnimal models pretrained for plug-and-play animal pose estimation (under review)"
 authors:
 - Shaokai Ye
 - admin
@@ -7,11 +7,13 @@ authors:
 - Steffen Schneider
 - Jessy Lauer
 - Tian Qiu
-date: "2022-12-12T00:00:00Z"
+- Mackenzie Weygandt Mathis
+- Alexander Mathis
+date: "2022-24-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-24-12T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # (publication_types: ["0"])
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Nature Methods"
 publication_short: ""
 
 abstract: Animal pose estimation is critical in applications ranging from neuroscience, agriculture, to veterinary medicine. However, it usually requires domain knowledge and labeling efforts to obtain reliable animal pose models. To give researchers easy access to high performance animal pose models across diverse environments and species, we have made available a web platform to collect data and share models, together with a new paradigm for pre-training and fine-tuning animal pose models.
