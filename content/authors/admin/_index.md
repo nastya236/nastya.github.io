@@ -71,7 +71,7 @@ highlight_name: true
 
 I am an upcoming Ph.D. student at [EPFL](https://www.epfl.ch/en/) and [ELLIS](https://ellis.eu), under the guidance of [Prof. Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis) (EPFL). I am excited to begin my Ph.D. journey in February 2024.
 
-Currently, I am completing my Master's in Data Science at Ecole polytechnique fédérale de Lausanne. Additionally, I serve as a research assistant at the [Adaptive Motor Control Lab]((http://www.mackenziemathislab.org), where I am involved in two projects. One focuses on extensions for [CEBRA](https://cebra.ai), led by [Steffen Schneider](https://stes.io), and the other involves improving the generalization ability of pose estimation models in [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut), collaborating with [Shaokai Ye](https://yeshaokai.github.io).
+Currently, I am completing my Master's in Data Science at Ecole polytechnique fédérale de Lausanne. Additionally, I serve as a research assistant at the [Adaptive Motor Control Lab](http://www.mackenziemathislab.org), where I am involved in two projects. One focuses on extensions for [CEBRA](https://cebra.ai), led by [Steffen Schneider](https://stes.io), and the other involves improving the generalization ability of pose estimation models in [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut), collaborating with [Shaokai Ye](https://yeshaokai.github.io).
 
 I pursued my BSc degree in Applied Mathematics and Physics at [Moscow Institute of Physics and Technology](https://mipt.ru/english/).
 During my undergraduate studies, I worked in the [Machine Intelligence Lab](http://mil-team.com) as AI Researcher.
