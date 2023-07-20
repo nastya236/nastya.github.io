@@ -69,13 +69,13 @@ email: anastasiia.filippova@epfl.ch
 highlight_name: true
 ---
 
-I am a MS student at  [Ecole polytechnique fédérale de Lausanne](https://www.epfl.ch/en/). Also, I am a research assistant at [Adaptive Motor Control Lab](http://www.mackenziemathislab.org) headed by [Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis).
+I am an upcoming Ph.D. student at [EPFL](https://www.epfl.ch/en/) and [ELLIS](https://ellis.eu), under the guidance of [Prof. Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis) (EPFL). I am excited to begin my Ph.D. journey in February 2024.
 
-Currently, I am working on extensions for [CEBRA](https://cebra.ai), led by [Steffen Schneider](https://stes.io). Also, I am improving the generalisation ability of pose estimation models in [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) with [Shaokai Ye](https://yeshaokai.github.io).
+Currently, I am completing my Master's in Data Science at Ecole polytechnique fédérale de Lausanne. Additionally, I serve as a research assistant at the [Adaptive Motor Control Lab]((http://www.mackenziemathislab.org), where I am involved in two projects. One focuses on extensions for [CEBRA](https://cebra.ai), led by [Steffen Schneider](https://stes.io), and the other involves improving the generalization ability of pose estimation models in [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut), collaborating with [Shaokai Ye](https://yeshaokai.github.io).
 
 I pursued my BSc degree in Applied Mathematics and Physics at [Moscow Institute of Physics and Technology](https://mipt.ru/english/).
 During my undergraduate studies, I worked in the [Machine Intelligence Lab](http://mil-team.com) as AI Researcher.
 As a member of the Computer Vision and Signal Processing team, I conducted research and helped big technical companies to build and deploy AI models on wearable devices.
 
-My research endeavor is to build models and algorithms for learning data-type invariant features and relations. To be more specific, I am interested in self-supervised learning for behaviour understanding.
+My research focuses on studying adaptation and generalization in minds and machines, utilizing mathematics, AI, and neuroscience. Specifically, I am passionate about learning data-driven priors and relationships from neural and behavioral data through AI for learning representations. My interests lie particularly in self-supervised learning, disentangled representation learning, generative models, and Bayesian inference.
 More details about my experience in my {{< staticref "uploads/CV_Filippova.pdf" "newtab" >}}resume.{{< /staticref >}}
