@@ -69,8 +69,7 @@ email: anastasiia.filippova@epfl.ch
 highlight_name: true
 ---
 
-I am an upcoming Ph.D. student at [EPFL](https://www.epfl.ch/en/) and [Oxford](https://www.ox.ac.uk) as a part of [ELLIS](https://ellis.eu), under the guidance of [Prof. Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis) and [Timothy Behrens](https://www.ndcn.ox.ac.uk/team/timothy-behrens). My research will be focused creating methods for learning multimodal data driven priors in neuroscience with self-supervision, improving explainability of such
-algorithms.
+I am an upcoming Ph.D. student at [EPFL](https://www.epfl.ch/en/) and [Oxford](https://www.ox.ac.uk) as a part of [ELLIS](https://ellis.eu), under the guidance of [Prof. Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis) and [Prof. Timothy Behrens](https://www.ndcn.ox.ac.uk/team/timothy-behrens). My research will be focused on developing methods for learning multimodal data-driven priors in neuroscience with self-supervision, and on improving the explainability of such algorithms.
 
 Currently, I am completing my Master's in Data Science at Ecole polytechnique fédérale de Lausanne. Additionally, I serve as a research assistant at the [Adaptive Motor Control Lab](http://www.mackenziemathislab.org), where I am working on extensions for [CEBRA](https://cebra.ai), led by [Steffen Schneider](https://stes.io). Also, I am improving the generalization ability of pose estimation models in [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) with [Shaokai Ye](https://yeshaokai.github.io).
 
