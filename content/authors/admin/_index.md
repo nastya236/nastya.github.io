@@ -11,6 +11,7 @@ superuser: true
 
 # Role/position/tagline
 role: 
+
 # Organizations/Affiliations to show in About widget
 # organizations:
 #   - name: Ecole polytechnique Fédérale de Lausanne
@@ -43,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: anastasiia.filippovaa@gmail.com
+    link: mailto:anastasiia.filippovaa@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/NasFilippova
@@ -64,7 +65,7 @@ social:
     link: uploads/CV_Filippova.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: anastasiia.filippova@epfl.ch
+email: anastasiia.filippovaa@gmail.com 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
