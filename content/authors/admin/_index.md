@@ -21,7 +21,7 @@ role:
   #   url: http://www.mackenziemathislab.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am in
+# bio: I am in
 
 # Interests to show in About widget
 interests:
