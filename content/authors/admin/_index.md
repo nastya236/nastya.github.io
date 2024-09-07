@@ -10,14 +10,15 @@ last_name: Filippova
 superuser: true
 
 # Role/position/tagline
-role: Master student, Artificial Intelligence and Natural Science
-
+role: 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Ecole polytechnique Fédérale de Lausanne
-    url: https://www.epfl.ch/en/
-  - name: Mackenzie Mathis Lab
-    url: http://www.mackenziemathislab.org
+# organizations:
+#   - name: Ecole polytechnique Fédérale de Lausanne
+#     url: https://www.epfl.ch/en/
+#   - name: Apple Machine Learning Research
+#     url: https://machinelearning.apple.com
+  # - name: Mackenzie Mathis Lab
+  #   url: http://www.mackenziemathislab.org
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am in
@@ -35,14 +36,14 @@ education:
   courses:
     - course: MSc in Data Science
       institution: Ecole polytechnique fédérale de Lausanne
-      year: 2021 - 2023
+      year: 2021 - 2024
     - course: BSc in Applied Math and Physics
       institution: Moscow Institute of Physics and Technology
       year: 2017 - 2021
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: anastasiia.filippovaa@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/NasFilippova
