@@ -24,11 +24,10 @@ bio: I am in
 
 # Interests to show in About widget
 interests:
+  - Large scale training
   - Efficiency 
   - Contrastive learning
-  - Disentangled representation learning
   - Identifiability
-  - Explainability
   - BCI
 
 # Education to show in About widget
