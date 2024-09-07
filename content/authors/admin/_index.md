@@ -24,6 +24,7 @@ bio: I am in
 
 # Interests to show in About widget
 interests:
+  - Efficiency 
   - Contrastive learning
   - Disentangled representation learning
   - Identifiability
@@ -35,7 +36,7 @@ education:
   courses:
     - course: MSc in Data Science
       institution: Ecole polytechnique fédérale de Lausanne
-      year: 2021 - 2023 (expected)
+      year: 2021 - 2023
     - course: BSc in Applied Math and Physics
       institution: Moscow Institute of Physics and Technology
       year: 2017 - 2021
@@ -49,8 +50,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&authuser=3&user=n-20RKYAAAAJ
   - icon: github
     icon_pack: fab
@@ -69,15 +70,16 @@ email: anastasiia.filippova@epfl.ch
 highlight_name: true
 ---
 
-I am an upcoming Ph.D. student at [EPFL](https://www.epfl.ch/en/) and [Oxford](https://www.ox.ac.uk) as a part of [ELLIS](https://ellis.eu), under the guidance of [Prof. Mackenzie Mathis](http://www.mackenziemathislab.org/mackenziemathis) and [Prof. Timothy Behrens](https://www.ndcn.ox.ac.uk/team/timothy-behrens). My research will be focused on developing methods for learning multimodal data-driven priors in neuroscience with self-supervision, and on improving the explainability of such algorithms.
+I am currently an intern at [Apple Machine Learning Research](https://machinelearning.apple.com) in California, led by [Samy Bengio](https://bengio.abracadoudou.com). My work, under the guidance of [Ronan Collobert](https://ronan.collobert.com), focuses on the efficient training and inference of Large Language Models (LLMs).
 
-Currently, I am completing my Master's in Data Science at Ecole polytechnique fédérale de Lausanne. Additionally, I serve as a research assistant at the [Adaptive Motor Control Lab](http://www.mackenziemathislab.org), where I am working on extensions for [CEBRA](https://cebra.ai), led by [Steffen Schneider](https://stes.io). Also, I am improving the generalization ability of pose estimation models in [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) with [Shaokai Ye](https://yeshaokai.github.io).
+I recently completed my Master's in Data Science at [Ecole Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/), where I served as a research assistant at the [Adaptive Motor Control Lab](http://www.mackenziemathislab.org). My projects involved self-supervised pre-training on neural and behavioral data, collaborating with [Steffen Schneider](https://stes.io).
 
-Also, I have spent time as Quantitative research intern at hedge fund [WorldQuant](https://www.worldquant.com), working on LLMs fine-tuning on financial in-house data. 
+Previously, I was a Quantitative Research Intern at [WorldQuant](https://www.worldquant.com), where I specialized in fine-tuning LLMs using proprietary financial data.
 
-I pursued my BSc degree in Applied Mathematics and Physics at [Moscow Institute of Physics and Technology](https://mipt.ru/english/).
-During my undergraduate studies, I worked in the [Machine Intelligence Lab](http://mil-team.com) as AI Researcher.
-As a member of the Computer Vision and Signal Processing team, I conducted research and helped big technical companies to build and deploy AI models on wearable devices.
+I earned my BSc in Applied Mathematics and Physics from the [Moscow Institute of Physics and Technology](https://mipt.ru/english/). During my undergraduate studies, I was an AI Researcher at the [Machine Intelligence Lab](http://mil-team.com), focusing on deploying AI models on wearable devices like phones, fitness watches, and trackers.
 
-My research focuses on studying adaptation and generalization in minds and machines, utilizing mathematics, AI, and neuroscience. Specifically, I am passionate about learning data-driven priors and relationships from neural and behavioral data through AI for learning representations. My interests lie particularly in self-supervised learning, disentangled representation learning, generative models, and Bayesian inference.
-More details about my experience in my {{< staticref "uploads/CV_Filippova.pdf" "newtab" >}}resume.{{< /staticref >}}
+My areas of interest include self-supervised learning, object-centric learning, and efficient large-scale training and inference. I am also passionate about AI4Science, encompassing applications in protein folding, neuroscience, and physics.
+
+For more details about my experience, please see my  {{< staticref "uploads/CV_Filippova.pdf" "newtab" >}}resume.{{< /staticref >}}
+
+<!-- I am actively seeking PhD positions in both the US and Europe. -->

@@ -23,16 +23,16 @@ publishDate: "2023-12-01T00:00:00Z"
 # (publication_types: ["0"])
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Communication"
+publication: "Nature Communications"
 publication_short: ""
-abstract: Quantification of behavior is critical in applications ranging from neuroscience, veterinary medicine and animal con- servation efforts. A common key step for behavioral analysis is first extracting relevant keypoints on animals, known as pose estimation. However, reliable inference of poses currently requires domain knowledge and manual labeling effort to build supervised models. We present a series of technical innovations that enable a new method, collectively called Su- perAnimal, to develop unified foundation models that can be used on over 45 species, without additional human labels. Concretely, we introduce a method to unify the keypoint space across differently labeled datasets (via our generalized data converter) and for training these diverse datasets in a manner such that they don’t catastrophically forget keypoints given the unbalanced inputs (via our keypoint gradient masking and memory replay approaches). These models show excellent performance across six pose benchmarks. Then, to ensure maximal usability for end-users, we demonstrate how to fine-tune the models on differently labeled data and provide tooling for unsupervised video adaptation to boost performance and decrease jitter across frames. If the models are fine-tuned, we show SuperAnimal models are 10-100× more data efficient than prior transfer-learning-based approaches. We illustrate the utility of our models in behavioral classification in mice and gait analysis in horses. Collectively, this presents a data-efficient solution for animal pose estimation.
+abstract: Quantification of behavior is critical in diverse applications from neuroscience, veterinary medicine to animal conservation. A common key step for behavioral analysis is first extracting relevant keypoints on animals, known as pose estimation. However, reliable inference of poses currently requires domain knowledge and manual labeling effort to build supervised models. We present SuperAnimal, a method to develop unified foundation models that can be used on over 45 species, without additional manual labels. These models show excellent performance across six pose estimation benchmarks. We demonstrate how to fine-tune the models (if needed) on differently labeled data and provide tooling for unsupervised video adaptation to boost performance and decrease jitter across frames. If fine-tuned, SuperAnimal models are 10–100× more data efficient than prior transfer-learning-based approaches. We illustrate the utility of our models in behavioral classification and kinematic analysis. Collectively, we present a data-efficient solution for animal pose estimation.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 links:
 - name: Custom Link
-  url: https://arxiv.org/abs/2203.07436
+  url: https://www.nature.com/articles/s41467-024-48792-2
 
-url_pdf: https://arxiv.org/abs/2203.07436
+url_pdf: https://www.nature.com/articles/s41467-024-48792-2
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
