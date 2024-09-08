@@ -71,9 +71,9 @@ email: anastasiia.filippovaa@gmail.com
 highlight_name: true
 ---
 
-I am currently an intern at [Apple Machine Learning Research](https://machinelearning.apple.com) in California, led by [Samy Bengio](https://bengio.abracadoudou.com). My work, under the guidance of [Ronan Collobert](https://ronan.collobert.com), focuses on the efficient training and inference of Large Language Models (LLMs).
+I am currently an intern at [Apple Machine Learning Research](https://machinelearning.apple.com) in California, led by [Samy Bengio](https://bengio.abracadoudou.com). I am working with [Ronan Collobert](https://ronan.collobert.com) on efficient training and inference of Large Language Models (LLMs).
 
-I recently completed my Master's in Data Science at [Ecole Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/), where I served as a research assistant at the [Adaptive Motor Control Lab](http://www.mackenziemathislab.org). My projects involved self-supervised pre-training on neural and behavioral data, collaborating with [Steffen Schneider](https://stes.io).
+I recently completed my Master's in Data Science at [Ecole Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/), where I served as a research assistant at the [Adaptive Motor Control Lab](http://www.mackenziemathislab.org). I was working on self-supervised pre-training on neural and behavioral data, collaborating with [Steffen Schneider](https://stes.io).
 
 Previously, I was a Quantitative Research Intern at [WorldQuant](https://www.worldquant.com), where I specialized in fine-tuning LLMs using proprietary financial data.
 
@@ -81,6 +81,7 @@ I earned my BSc in Applied Mathematics and Physics from the [Moscow Institute of
 
 My areas of interest include self-supervised learning, object-centric learning, and efficient large-scale training and inference. I am also passionate about AI4Science, encompassing applications in protein folding, neuroscience, and physics.
 
-For more details about my experience, please see my  {{< staticref "uploads/CV_Filippova.pdf" "newtab" >}}resume.{{< /staticref >}}
+ You can know more about me here: [anastasiia.filippovaa@gmail.com](mailto:anastasiia.filippovaa@gmail.com).
+<!-- For more details about my experience, please see my  {{< staticref "uploads/CV_Filippova.pdf" "newtab" >}}resume.{{< /staticref >}} -->
 
 <!-- I am actively seeking PhD positions in both the US and Europe. -->
