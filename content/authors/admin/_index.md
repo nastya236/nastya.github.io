@@ -26,9 +26,10 @@ role:
 
 # Interests to show in About widget
 interests:
+  - Contrastive learning  
   - Large scale training
   - Efficiency 
-  - Contrastive learning
+  - Object-centric learning
   - Identifiability
   - BCI
 
@@ -62,7 +63,7 @@ social:
     link: https://www.linkedin.com/in/anastasiia-filippova-582067222/
   - icon: cv 
     icon_pack: ai
-    link: uploads/CV_Filippova.pdf
+    link: uploads/Filippova.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: anastasiia.filippovaa@gmail.com 
