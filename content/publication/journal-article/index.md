@@ -31,8 +31,10 @@ abstract: Quantification of behavior is critical in diverse applications from ne
 links:
 - name: Custom Link
   url: https://www.nature.com/articles/s41467-024-48792-2
-
+  
 url_pdf: https://www.nature.com/articles/s41467-024-48792-2
+url_video: https://www.youtube.com/watch?v=HSXu-uMAVto&t=2s
+url_twitter: https://x.com/TrackingActions/status/1804140473314910428
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
