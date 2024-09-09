@@ -26,12 +26,11 @@ role:
 
 # Interests to show in About widget
 interests:
-  - Contrastive learning  
+  - Self-supervised learning and Identifiability
   - Large scale training
   - Efficiency 
   - Object-centric learning
-  - Identifiability
-  - BCI
+  - AI4Sciece
 
 # Education to show in About widget
 education:
