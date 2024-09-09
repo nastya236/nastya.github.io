@@ -79,7 +79,7 @@ Previously, I was a Quantitative Research Intern at [WorldQuant](https://www.wor
 
 I earned my BSc in Applied Mathematics and Physics from the [Moscow Institute of Physics and Technology](https://mipt.ru/english/). During my undergraduate studies, I was an AI Researcher at the [Machine Intelligence Lab](http://mil-team.com), focusing on deploying AI models on wearable devices like phones, fitness watches, and trackers.
 
-My areas of interest include self-supervised learning, object-centric learning, and efficient large-scale training and inference. I am also passionate about AI4Science, encompassing applications in protein folding, neuroscience, and physics.
+My areas of interest include self-supervised learning, object-centric learning, and efficient large-scale training and inference. I am also passionate about AI4Science, encompassing applications in neuroscience, biology and physics.
 
  You can know more about me here: [anastasiia.filippovaa@gmail.com](mailto:anastasiia.filippovaa@gmail.com).
 <!-- For more details about my experience, please see my  {{< staticref "uploads/CV_Filippova.pdf" "newtab" >}}resume.{{< /staticref >}} -->
