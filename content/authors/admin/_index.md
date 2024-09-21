@@ -73,7 +73,7 @@ highlight_name: true
 
 I am currently an intern at [Apple Machine Learning Research](https://machinelearning.apple.com) in California, led by [Samy Bengio](https://bengio.abracadoudou.com). I am working with [Ronan Collobert](https://ronan.collobert.com) on efficient training and inference of Large Language Models (LLMs).
 
-I recently completed my Master's in Data Science at [Ecole Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). I had the opportunity to serve as a research assistant at the [Adaptive Motor Control Lab](http://www.mackenziemathislab.org), led by Prof. Mackenzie Mathis, during this time. My work focused on self-supervised pre-training on neural and behavioral data, in collaboration with [Steffen Schneider](https://stes.io).
+I recently completed my Master's in Data Science at [Ecole Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). I was lucky to serve as a research assistant at the [Mathis Laboratory of Adaptive Intelligence](http://www.mackenziemathislab.org), led by Prof. Mackenzie Mathis, during this time. My work focused on self-supervised pre-training on neural and behavioral data in collaboration with [Steffen Schneider](https://stes.io) and on foundation models for animal pose estimation with [Shaokai Ye](https://yeshaokai.github.io). 
 
 Previously, I was a Quantitative Research Intern at [WorldQuant](https://www.worldquant.com), where I specialized in fine-tuning LLMs using proprietary financial data.
 
