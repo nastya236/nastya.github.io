@@ -53,7 +53,7 @@ social:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&authuser=3&user=n-20RKYAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=5iee9WoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/nastya236
