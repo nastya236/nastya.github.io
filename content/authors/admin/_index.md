@@ -71,15 +71,15 @@ email: anastasiia.filippovaa@gmail.com
 highlight_name: true
 ---
 
-I am currently an intern at [Apple Machine Learning Research](https://machinelearning.apple.com) in California, led by [Samy Bengio](https://bengio.abracadoudou.com). I am working with [Ronan Collobert](https://ronan.collobert.com) on efficient training and inference of Large Language Models (LLMs).
-
 I recently completed my Master's in Data Science at [Ecole Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). I was lucky to serve as a research assistant at the [Mathis Laboratory of Adaptive Intelligence](http://www.mackenziemathislab.org), led by Prof. Mackenzie Mathis, during this time. My work focused on self-supervised pre-training on neural and behavioral data in collaboration with [Steffen Schneider](https://stes.io) and on foundation models for animal pose estimation with [Shaokai Ye](https://yeshaokai.github.io). 
+
+I was fortunate to interned at [Apple Machine Learning Research](https://machinelearning.apple.com) in California under the leadership of [Samy Bengio](https://bengio.abracadoudou.com). I was working with amazing [Ronan Collobert](https://ronan.collobert.com) on efficient training and inference of Large Language Models (LLMs).
 
 Previously, I was a Quantitative Research Intern at [WorldQuant](https://www.worldquant.com), where I specialized in fine-tuning LLMs using proprietary financial data.
 
 I earned my BSc in Applied Mathematics and Physics from the [Moscow Institute of Physics and Technology](https://mipt.ru/english/). During my undergraduate studies, I was an AI Researcher at the [Machine Intelligence Lab](http://mil-team.com), focusing on deploying AI models on wearable devices like phones, fitness watches, and trackers.
 
-My areas of interest include self-supervised learning, object-centric learning, and efficient large-scale training and inference. I am also passionate about AI4Science, encompassing applications in neuroscience, biology and physics.
+My areas of interest include efficient large-scale training and inference, self-supervised learning, object-centric learning. I am also passionate about AI4Science, encompassing applications in neuroscience, biology and physics.
 
  You can know more about me here: [anastasiia.filippovaa@gmail.com](mailto:anastasiia.filippovaa@gmail.com).
 <!-- For more details about my experience, please see my  {{< staticref "uploads/CV_Filippova.pdf" "newtab" >}}resume.{{< /staticref >}} -->
