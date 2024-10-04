@@ -5,7 +5,7 @@ authors:
 - admin
 - Angelos Katharopoulos
 - David Grangier
-- ROnan Collobert
+- Ronan Collobert
 date: "2024-09-12T00:00:00Z"
 doi: ""
 
