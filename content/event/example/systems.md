@@ -10,8 +10,8 @@ address:
 summary: Neural circuits, computational modeling, perception & decision-making, neuroAI
 abstract: 
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-02-21T13:00:00Z'
-date_end: '2024-03-28T15:00:00Z'
+date: '2024-02-01T13:00:00Z'
+date_end: '2024-03-24T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
