@@ -26,10 +26,10 @@ role:
 
 # Interests to show in About widget
 interests:
-  - Self-supervised learning and Identifiability
+  - Efficiency
   - Large scale training
-  - Efficiency 
-  - Object-centric learning
+  - Self-supervised learning
+  - Identifiable Representation Learning
   - AI4Sciece
 
 # Education to show in About widget
@@ -79,7 +79,7 @@ Previously, I was a Quantitative Research Intern at [WorldQuant](https://www.wor
 
 I earned my BSc in Applied Mathematics and Physics from the [Moscow Institute of Physics and Technology](https://mipt.ru/english/). During my undergraduate studies, I was an AI/ML Researcher at the [Machine Intelligence Lab](http://mil-team.com), focusing on training and deploying AI models on wearable devices like phones, fitness watches, and trackers.
 
-My areas of interest include efficient training, fine-tunining and inference of large models, self-supervised learning, object-centric learning. I am also passionate about AI4Science, encompassing applications in neuroscience, biology and physics.
+My areas of interest include efficient training, fine-tunining and inference of large models, self-supervised learning and identifiable representation learning. I am also passionate about AI4Science, encompassing applications in neuroscience, biology and physics.
 
 I am pasionate about making AI efficient and accesible to everyone. 
 
