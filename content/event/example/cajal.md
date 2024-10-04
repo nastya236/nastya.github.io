@@ -10,8 +10,8 @@ address:
 summary: This course emphasizes the philosophical and observational skills required to understand behaviour, while also providing training in motion capture technologies and computer vision methods that can assist in the collection and analysis of video recorded behaviour datasets.
 abstract: 
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-10-21T13:00:00Z'
-date_end: '2022-10-28T15:00:00Z'
+date: '2023-10-21T13:00:00Z'
+date_end: '2023-10-28T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -46,5 +46,4 @@ slides: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-
 ---

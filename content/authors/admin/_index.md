@@ -73,13 +73,15 @@ highlight_name: true
 
 I recently completed my Master's in Data Science at [Ecole Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/). I was fortunate to interned at [Apple Machine Learning Research](https://machinelearning.apple.com) in California under the leadership of [Samy Bengio](https://bengio.abracadoudou.com). I was working with [Ronan Collobert](https://ronan.collobert.com) and his amazing team on efficient training and inference of Large Language Models (LLMs).
 
-I also was lucky to serve as a research assistant at the [Mathis Laboratory of Adaptive Intelligence](http://www.mackenziemathislab.org), led by Prof. Mackenzie Mathis, during my Master's. My work focused on self-supervised pre-training on neural and behavioral data in collaboration with [Steffen Schneider](https://stes.io) and on foundation models for animal pose estimation with [Shaokai Ye](https://yeshaokai.github.io). 
+I also was lucky to serve as a research assistant at the [Mathis Laboratory of Adaptive Intelligence](http://www.mackenziemathislab.org), led by Prof. Mackenzie Mathis, during my Master's. My work was focused on self-supervised pre-training on neural and behavioral data in collaboration with [Steffen Schneider](https://stes.io) and on foundation models for animal pose estimation with [Shaokai Ye](https://yeshaokai.github.io). 
 
 Previously, I was a Quantitative Research Intern at [WorldQuant](https://www.worldquant.com), where I specialized in fine-tuning LLMs using proprietary financial data.
 
-I earned my BSc in Applied Mathematics and Physics from the [Moscow Institute of Physics and Technology](https://mipt.ru/english/). During my undergraduate studies, I was an AI Researcher at the [Machine Intelligence Lab](http://mil-team.com), focusing on deploying AI models on wearable devices like phones, fitness watches, and trackers.
+I earned my BSc in Applied Mathematics and Physics from the [Moscow Institute of Physics and Technology](https://mipt.ru/english/). During my undergraduate studies, I was an AI/ML Researcher at the [Machine Intelligence Lab](http://mil-team.com), focusing on training and deploying AI models on wearable devices like phones, fitness watches, and trackers.
 
-My areas of interest include efficient large-scale training and inference, self-supervised learning, object-centric learning. I am also passionate about AI4Science, encompassing applications in neuroscience, biology and physics.
+My areas of interest include efficient training, fine-tunining and inference of large models, self-supervised learning, object-centric learning. I am also passionate about AI4Science, encompassing applications in neuroscience, biology and physics.
+
+I am pasionate about making AI efficient and accesible to everyone. 
 
  You can know more about me here: [anastasiia.filippovaa@gmail.com](mailto:anastasiia.filippovaa@gmail.com).
 <!-- For more details about my experience, please see my  {{< staticref "uploads/CV_Filippova.pdf" "newtab" >}}resume.{{< /staticref >}} -->
