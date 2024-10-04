@@ -28,7 +28,10 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/Cajal_Training?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
-url_code: https://github.com/AlexEMG/DLC-Cajal-Course
+  - icon: github
+    icon_pack: fab
+    url: https://github.com/AlexEMG/DLC-Cajal-Course
+# url_code: https://github.com/AlexEMG/DLC-Cajal-Course
 url_pdf: ''
 url_slides: ''
 url_video: ''

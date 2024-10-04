@@ -30,7 +30,7 @@ links:
 #     url: https://edu.epfl.ch/coursebook/fr/systems-neuroscience-NX-435
 # url_code: https://github.com/AlexEMG/DLC-Cajal-Course
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://edu.epfl.ch/coursebook/fr/systems-neuroscience-NX-435'
 url_video: ''
 
 # Markdown Slides (optional).
