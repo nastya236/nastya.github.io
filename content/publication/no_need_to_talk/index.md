@@ -27,10 +27,10 @@ abstract: We introduce SmallTalk LM, an innovative method for training a mixture
 # Summary. An optional shortened abstract.
 
 links:
-# - name: Custom Link
-#   url: https://aclanthology.org/2022.sigdial-1.41/
+- name: Custom Link
+  url: https://arxiv.org/abs/2410.03529
 
-# url_pdf: https://aclanthology.org/2022.sigdial-1.41.pdf
+url_pdf: https://arxiv.org/pdf/2410.03529
 # url_video: https://youtu.be/7h3jwTTfXUY
 
 # Slides (optional).
