@@ -29,8 +29,6 @@ abstract: Quantification of behavior is critical in diverse applications from ne
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 links:
-- name: Custom Link
-  url: https://www.nature.com/articles/s41467-024-48792-2
   
 url_pdf: https://www.nature.com/articles/s41467-024-48792-2
 url_video: https://www.youtube.com/watch?v=HSXu-uMAVto&t=2s

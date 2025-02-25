@@ -26,7 +26,7 @@ role:
 
 # Interests to show in About widget
 interests:
-  - Efficiency
+  - Efficient LLM inference
   - Large scale training
   - Self-supervised learning
   - Identifiable Representation Learning
