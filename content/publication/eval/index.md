@@ -26,8 +26,6 @@ abstract: Building an empathetic chatbot is an important objective in dialog gen
 # Summary. An optional shortened abstract.
 
 links:
-- name: Custom Link
-  url: https://aclanthology.org/2022.sigdial-1.41/
 
 url_pdf: https://aclanthology.org/2022.sigdial-1.41.pdf
 url_video: https://youtu.be/7h3jwTTfXUY
